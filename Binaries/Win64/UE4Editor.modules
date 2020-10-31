@@ -1,0 +1,8 @@
+{
+	"BuildId": "1064bc2f-63ec-4670-924d-ddc9791dc518",
+	"Modules": 
+	{
+		"FMODStudio": "UE4Editor-FMODStudio.dll",
+		"FMODStudioEditor": "UE4Editor-FMODStudioEditor.dll"
+	}
+}
